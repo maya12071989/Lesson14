@@ -55,9 +55,7 @@
         }
     },
        "config": {
-        "platform": {
-            "php": "8.0.7"
-        }
+        
     },
     "minimum-stability": "dev",
     "prefer-stable": true
